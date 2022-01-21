@@ -1,0 +1,49 @@
+body {
+    background-color: #EC0CF7;
+}
+header {
+    text-align: center;
+    color: white;
+    background-color: #6b5305;
+    border-radius: 8px;
+    width: 50%;
+    margin: auto;
+}
+section {
+    background-color: #F7C825;
+    width: 80%;
+    
+    box-shadow: 2px 2px 10px black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+}
+div {
+    background-color:#A600AB ;
+    display:grid;
+   
+    
+    
+    border-radius: 10px;
+}
+div a {
+    text-decoration: none;
+    color: #011106;
+}
+div p:hover {
+    background-color: #3EF7D5;
+}
+div p {
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: bold;
+    
+    padding: 10px;
+    background-color: #cfa10bbd;
+    border-radius: 8px 0px 0px 8px;
+    box-shadow: 2px 2px 10px black;
+   
+}
+footer {
+
+}
